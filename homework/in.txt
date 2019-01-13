@@ -1,0 +1,6 @@
+PROGRAM tony
+VAR a,b:INTEGER
+BEGIN
+WRITE(a);
+WRITE(a)
+END
